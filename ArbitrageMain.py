@@ -9,8 +9,8 @@ import time
 from binance.client import Client
 import CoreFunctionality as core
 
-api_key = 'api_key'
-api_secret = 'api_secret'
+api_key = 'T8rGanX7SMpYlMv7aTDTG7aPMLgu8cn8B338QklgZ187Hzapa0E2bm2ma3GxXkBR'
+api_secret = '177FKwJ2J8hePcSQyqb2bKsfUfc1uxXJfpWALtUctlOVlDBq9JKdfhlpXDxuoHaU'
 client = Client(api_key, api_secret)
 btcHistory = []
 profits = 0.001
